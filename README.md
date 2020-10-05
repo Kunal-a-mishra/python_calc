@@ -1,1 +1,9 @@
-# python_calcD:/python_calc/.git/index.lock
+# python_calc
+
+# python_calc
+
+Python GUI using PyQt
+
+Install
+
+PIP install PyQt5
