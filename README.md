@@ -28,3 +28,14 @@ window = QWidget() window.setWindowTitle('PyQt5 App') window.setGeometry(100, 10
 Retain GUI Window
 
 sys.exit(app.exec_())
+
+# Calculator Using PyQt5
+
+iew of application
+
+    Create view.py
+
+    Import following modules from PyQt5.QtCore import Qt from PyQt5.QtWidgets import QMainWindow from PyQt5.QtWidgets import QWidget from PyQt5.QtWidgets import QGridLayout from PyQt5.QtWidgets import QLineEdit from PyQt5.QtWidgets import QPushButton from PyQt5.QtWidgets import QVBoxLayout
+
+    Create GUI class and extend QMainWindow class class GUI(QMainWindow):
+
